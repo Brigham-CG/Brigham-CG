@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Brigham, and I'm a cybersecurity enthusiast! 🛡️🔒💻
 
 <!--
 **Brigham-CG/Brigham-CG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
